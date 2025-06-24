@@ -3,6 +3,6 @@
 This repository contains works of CCEL in 2025
 
 ### 1) DFT-based calculations of glycerol dissociation on Au nanoparticles supported on a TiO₂ slab.
-If you want to see the workflow, please read 'Wiki' section
+If you want to see the workflow, please read '[Wiki](https://github.com/kimseanjongheun/25_CCEL_works/wiki)' section
 
 
